@@ -42,4 +42,4 @@ function rasri(year){
     
     }return cha
 }
-console.log(rasri(2002))
+console.log(rasri(1900))

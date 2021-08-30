@@ -1,7 +1,7 @@
 // ทดสอบเขียนโปรแกรมหาค่า bmi 
-function getbmi(weigth){
+function getbmi(weigth , height){
     // let weigth = 56
-    let height = 160 / 100
-    return weigth / (height*height).toFixed(2)
+    // let height = 160 / 100
+    return weigth / (height*height)
 }
-console.log(getbmi(55))
+console.log(getbmi(55,160/100).toFixed(2))

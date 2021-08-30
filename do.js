@@ -98,3 +98,41 @@
 // }
 // console.log(rasri(2002))
 // -------------------------------------------------------------------------------
+
+// let lotto_number = prompt("กรอกเลขที่ต้องการซื้อ")
+// let result = Math.floor(Math.random()*1000) 
+// document.getElementById("random").innerHTML = result
+// // document.getElementById("lotto").innerHTML = lotto_number
+// if (lotto_number == result) {
+//     document.getElementById("result").innerHTML = "คุณถูกรางวัล"
+// }else {
+//     document.getElementById("result").innerHTML = "คุณไม่ถูกรางวัล"
+// }
+
+// let lotto_number = 33
+// let result = Math.floor(Math.random()*1000) 
+
+// console.log("เลขที่คุณซื้อคือ " + lotto_number)
+// console.log("เลขที่ออกคือ " + result)
+
+// if (lotto_number == result) {
+//     console.log("คุณถูกรางวัล")
+// }else {
+//     console.log("คุณไม่ถูกรางวัล")
+// }
+
+
+// function guest(krok){
+//     let soom = Math.floor(Math.random()*10+1)
+//     console.log("เลขที่ออก : " + soom)
+//     console.log("เลขที่สุ่ม : " + krok)
+
+//     if (soom == krok) {
+//         console.log("You WIN!")
+//     }else if (krok>soom) {
+//         console.log("Too High")
+//     }else if (krok<soom) {
+//         console.log("Too Low")
+// }
+// }
+// guest(10)
