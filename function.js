@@ -11,11 +11,7 @@
 // }
 //     console.log(distance({ x: 1, y: 1 }, { x: 2, y: 2 }));//1.4142135623730951
 
-// for (let i = 0; i < 3; i++) {
-// let soom = Math.floor(Math.random() * 100) + 1;
-// console.log(soom)
-// }
-// function sum(soom){
-//     return soom+soom+soom
-// }
-// console.log(sum))
+for (let i = 0; i < 3; i++) {
+let soom = Math.floor(Math.random() * 100) + 1;
+console.log(soom)
+}
