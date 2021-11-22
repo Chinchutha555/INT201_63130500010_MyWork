@@ -11,7 +11,21 @@
 // }
 //     console.log(distance({ x: 1, y: 1 }, { x: 2, y: 2 }));//1.4142135623730951
 
-for (let i = 0; i < 3; i++) {
-let soom = Math.floor(Math.random() * 100) + 1;
-console.log(soom)
+// for (let i = 0; i < 3; i++) {
+// let soom = Math.floor(Math.random() * 100) + 1;
+// console.log(soom)
+// }
+
+let greeting = 'hello';
+let someone = 'Umaporn';
+//global scopt: greeting, someone, num, say
+
+function say(sentence) {
+  greeting = 'hi';
+  let words = 'Good bye';
+  return `${greeting}, ${someone}, ${sentence}, ${words}, ${num}`;
 }
+
+let num = 10;
+// console.log(words);
+console.log(say('Today is Tuesday'));
