@@ -59,9 +59,9 @@ divbody.appendChild(button)
 
 }
 
-let chbg = document.querySelector('body')
-chbg.setAttribute('class','sasss')
+// let chbg = document.querySelector('body')
+// chbg.setAttribute('class','sasss')
 
-chbg.addEventListener('click',function(){
-    chbg.style.backgroundColor='#2F4F4F'
-})
+// chbg.addEventListener('click',function(){
+//     chbg.style.backgroundColor='#2F4F4F'
+// })

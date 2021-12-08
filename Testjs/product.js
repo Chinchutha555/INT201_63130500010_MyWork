@@ -16,14 +16,14 @@ export let product = [
     //     price : 18000 ,
     //     stock : 100
     // },
-    {
-        img : "iphone6s.png",
-        id : "p01",
-        name : "iphone 6s" ,
-        description : "iphone in year 2017",
-        price : 18000 ,
-        stock : 100
-    },
+    // {
+    //     img : "iphone6s.png",
+    //     id : "p01",
+    //     name : "iphone 6s" ,
+    //     description : "iphone in year 2017",
+    //     price : 18000 ,
+    //     stock : 100
+    // },
     // {
     //     img : "iphone6splus.png",
     //     id : "p01",
@@ -32,14 +32,14 @@ export let product = [
     //     price : 18000 ,
     //     stock : 100
     // },
-    {
-        img : "iphone7.png",
-        id : "p02",
-        name : "iphone 7" ,
-        description : "iphone in year 2017",
-        price : 18000 ,
-        stock : 100
-    },
+    // {
+    //     img : "iphone7.png",
+    //     id : "p02",
+    //     name : "iphone 7" ,
+    //     description : "iphone in year 2017",
+    //     price : 18000 ,
+    //     stock : 100
+    // },
     // {
     //     img : "iphone7plus.png",
     //     id : "p01",
@@ -48,14 +48,14 @@ export let product = [
     //     price : 18000 ,
     //     stock : 100
     // },
-    {
-        img : "iphone8.png",
-        id : "p03",
-        name : "iphone 8" ,
-        description : "iphone in year 2017",
-        price : 18000 ,
-        stock : 100
-    },
+    // {
+    //     img : "iphone8.png",
+    //     id : "p03",
+    //     name : "iphone 8" ,
+    //     description : "iphone in year 2017",
+    //     price : 18000 ,
+    //     stock : 100
+    // },
     // {
     //     img : "iphone8plus.png",
     //     id : "p03",
@@ -64,46 +64,46 @@ export let product = [
     //     price : 18000 ,
     //     stock : 100
     // },
-    {
-        img : "iphonex.png",
-        id : "p03",
-        name : "iphone x" ,
-        description : "iphone in year 2017",
-        price : 18000 ,
-        stock : 100
-    },
-    {
-        img : "iphonexr.png",
-        id : "p03",
-        name : "iphone xr" ,
-        description : "iphone in year 2017",
-        price : 18000 ,
-        stock : 100
-    },
-    {
-        img : "iphonexs.png",
-        id : "p03",
-        name : "iphone xs" ,
-        description : "iphone in year 2017",
-        price : 18000 ,
-        stock : 100
-    },
-    {
-        img : "iphonexsmax.png",
-        id : "p03",
-        name : "iphone xs max" ,
-        description : "iphone in year 2017",
-        price : 18000 ,
-        stock : 100
-    },
-    {
-        img : "iphonese.png",
-        id : "p03",
-        name : "iphone se" ,
-        description : "iphone in year 2017",
-        price : 18000 ,
-        stock : 100
-    },
+    // {
+    //     img : "iphonex.png",
+    //     id : "p03",
+    //     name : "iphone x" ,
+    //     description : "iphone in year 2017",
+    //     price : 18000 ,
+    //     stock : 100
+    // },
+    // {
+    //     img : "iphonexr.png",
+    //     id : "p03",
+    //     name : "iphone xr" ,
+    //     description : "iphone in year 2017",
+    //     price : 18000 ,
+    //     stock : 100
+    // },
+    // {
+    //     img : "iphonexs.png",
+    //     id : "p03",
+    //     name : "iphone xs" ,
+    //     description : "iphone in year 2017",
+    //     price : 18000 ,
+    //     stock : 100
+    // },
+    // {
+    //     img : "iphonexsmax.png",
+    //     id : "p03",
+    //     name : "iphone xs max" ,
+    //     description : "iphone in year 2017",
+    //     price : 18000 ,
+    //     stock : 100
+    // },
+    // {
+    //     img : "iphonese.png",
+    //     id : "p03",
+    //     name : "iphone se" ,
+    //     description : "iphone in year 2017",
+    //     price : 18000 ,
+    //     stock : 100
+    // },
     {
         img : "iphone11.png",
         id : "p04",

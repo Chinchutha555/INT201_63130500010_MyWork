@@ -1,6 +1,5 @@
-import {product} from "./productlist.js";
+let dividprolist = document.querySelector("#product-list")
 
-let dividprolist = document.querySelector("#productlist")
 
 for (let p of product) {
     
